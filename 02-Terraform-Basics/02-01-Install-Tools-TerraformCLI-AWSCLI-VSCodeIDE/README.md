@@ -1,3 +1,9 @@
+# WHAT IS TERRAFORM AND WHAT DOES TERRAFORM IS USE FOR?
+
+# WHAT IS IAAC?
+
+# WHAT IA PAAS?
+
 # Terraform & AWS CLI Installation
 
 ## Step-01: Introduction
