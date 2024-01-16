@@ -2,7 +2,7 @@
 
 # WHAT IS IAAC?
 
-# WHAT IA PAAS?
+# WHAT IS PAAS?
 
 # Terraform & AWS CLI Installation
 
